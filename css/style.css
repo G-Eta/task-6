@@ -28,15 +28,9 @@
 .rounded {
     border-radius: 0.25rem !important;
 }
-.section-heading-upper {
-    display: block;
-    font-size: 1rem;
-    font-weight: 700;}
 
 .section-heading-lower {
     display: block;
-    font-size: 3rem;
-    font-weight: 50;
 }
 .footer {
     background-color: rgba(47, 23, 15, 0.9);
