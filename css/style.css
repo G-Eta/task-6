@@ -6,12 +6,6 @@
 .bg{
     background-image:url(../img/bg-img.jpg)
 }
-.bg2{
-    background-image: url(../img/bg_2.jpg);
-}
-.bg3{
-    background-image: url(../img/bg_3.jpg);
-}
 .bg1{
     background-image: url(../img/bg_1.jpg);
 }
@@ -53,9 +47,8 @@
 }
 .btn{
     font-size: 13px;
-}
-.btn-primary {
     background: #c49b63;
     border: 1px solid #c49b63;
     color: #000;
 }
+
