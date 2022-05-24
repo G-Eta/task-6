@@ -5,6 +5,12 @@
 .bg1{
     background-image: url(../img/bg_1.jpg);
 }
+.bg5{
+    background-image: url(../img/bg-5.jpg);
+}
+.bg6{
+    background-image: url(../img/bg-6.jpg);
+}
 .margin{
     padding-left: 10px;
     padding-right: 15px;
@@ -45,4 +51,7 @@
     position: relative;
     z-index: 0;
     background-image: url(../img/b777167e903d987978d2e90bcaeb0fdd.jpg);
+}
+.pix img{
+    width: 100%; 
 }
