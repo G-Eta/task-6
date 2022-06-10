@@ -1,7 +1,11 @@
 
 .bg{
-    background-image:url(../img/bg-img.jpg);
+    background-image:url(../img/bg-img2.jpg);   
+     
 }
+
+
+
 .bg1{
     background-image: url(../img/bg_1.jpg);
 }
@@ -9,7 +13,7 @@
     background-image: url(../img/bg-5.jpg);
 }
 .bg6{
-    background-image: url(../img/bg-6.jpg);
+    background-image: url(../img/bg-6-2.jpg);
 }
 .margin{
     padding-left: 10px;
