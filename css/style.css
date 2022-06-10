@@ -1,19 +1,29 @@
 
 .bg{
-    background-image:url(../img/bg-img2.jpg);   
-     
+    background: linear-gradient(
+        rgba(0,0,0,0.7),
+        rgba(0,0,0,0.7)
+        ),
+    url(../img/bg-img.jpg);   
 }
 
-
-
 .bg1{
-    background-image: url(../img/bg_1.jpg);
+    background-image:linear-gradient(
+        rgba(0,0,0,0.7),
+        rgba(0,0,0,0.7)
+        ),
+    url(../img/bg_1.jpg);
 }
 .bg5{
     background-image: url(../img/bg-5.jpg);
 }
 .bg6{
-    background-image: url(../img/bg-6-2.jpg);
+    background-image: linear-gradient(
+        rgba(0,0,0,0.7),
+        rgba(0,0,0,0.7)
+        ),
+    
+    url(../img/bg-6-2.jpg);
 }
 .margin{
     padding-left: 10px;
